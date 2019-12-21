@@ -7,8 +7,8 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+url: https://iancmoritz.github.io
+baseurl: "/iancmoritz.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -21,11 +21,11 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-title : Helium Jekyll
+title : Ian Moritz
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
+  name : Ian Moritz
+  site: https://iancmoritz.com
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
   email : lantoniotrento@gmail.com
