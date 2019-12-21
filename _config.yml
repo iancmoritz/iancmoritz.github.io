@@ -27,8 +27,9 @@ author :
   name : Ian Moritz
   site: https://iancmoritz.com
   description : Student @ Cornell University
-  headshot : headshot.jpg
+  headshot : headshot.jpg #Can also add link to Facebook PFP if wanted. 
   email : iancmoritz@gmail.com
+  phone : (703) 472-0424
   github : iancmoritz
   twitter : iancmoritz
   facebook: iancmoritz
