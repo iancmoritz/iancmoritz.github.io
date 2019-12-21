@@ -34,10 +34,10 @@ author :
   facebook: iancmoritz
   linkedin: iancmoritz
   instagram: iancmoritz
-  pinterest: antoniotrento
+  pinterest: 
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: iancmoritz
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -46,7 +46,7 @@ twitter_username: lantoniotrento
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://heliumjk.github.io
+production_url : https://iancmoritz.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
