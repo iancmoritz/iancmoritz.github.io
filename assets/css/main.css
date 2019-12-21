@@ -11,7 +11,7 @@ margin-top:0}h1{font-size:36px}h2{font-size:30px}h3{font-size:26px}h4{font-size:
 -ms-transition:.2s ease-in;
 transition:.2s ease-in;
 letter-spacing:0px;
-outline:0 !important}a:hover,a:active,a:focus{color:#D14E63;
+outline:0 !important}a:hover,a:active,a:focus{color:#0044CE;
 text-decoration:none}p{font-family:"Rubik",sans-serif;
 font-weight:400;
 font-size:14px;
@@ -140,14 +140,14 @@ border-color:#dd4b39}.default-footer{background:#232935;
 padding-bottom:100px;
 padding-top:100px}.copy-right{font-size:12px;
 color:#bac0cb}.dis-blk{display:block;
-margin-bottom:30px}.mb-40{margin-bottom:40px}.footer-logo{width:auto}.light-footer{background:#f7f7f7}.light-footer p{color:#444}.dark-footer{background:#222}.dark-footer p{color:#ccc}.light-footer .widget-area{background:#fff}.dark-footer .widget-area{background:#000}.color-footer .widget-area{background:#D14E63}footer .widget-title{text-align:left;
+margin-bottom:30px}.mb-40{margin-bottom:40px}.footer-logo{width:auto}.light-footer{background:#f7f7f7}.light-footer p{color:#444}.dark-footer{background:#222}.dark-footer p{color:#ccc}.light-footer .widget-area{background:#fff}.dark-footer .widget-area{background:#000}.color-footer .widget-area{background:#0044CE}footer .widget-title{text-align:left;
 margin-bottom:30px}.dark-footer .widget-title h4{color:#fff}.color-footer .widget-title h4{color:#fff}footer .block-title{font-size:20px;
 margin-bottom:25px}footer .footer-Content{background-color:#18191b;
 padding:60px 0;
 color:#fff}.footer-widget p{color:#fff}.textwidget{font-size:14px;
 font-weight:300;
 line-height:24px;
-color:#fff}footer .menu{padding-left:0}footer .menu li{padding-bottom:10px}footer .menu li a{color:#fff}footer .menu li a:hover{color:#D14E63}.twitter-content ul li{margin-bottom:10px;
+color:#fff}footer .menu{padding-left:0}footer .menu li{padding-bottom:10px}footer .menu li a{color:#fff}footer .menu li a:hover{color:#0044CE}.twitter-content ul li{margin-bottom:10px;
 padding-bottom:10px}.twitter-content span{float:left;
 width:224px}.twitter-content span a{color:#002060
 }.featured-list{margin:0;
@@ -171,7 +171,7 @@ position:relative;
 overflow:hidden}#copyright{background-color:#1d1e20;
 padding:20px 0 10px;
 color:#fff}#copyright p{line-height:34px;
-color:#999}#copyright p a{color:#fff}#copyright p a:hover{color:#D14E63}.social-icon .facebook:hover{background-color:#3b5998;
+color:#999}#copyright p a{color:#fff}#copyright p a:hover{color:#0044CE}.social-icon .facebook:hover{background-color:#3b5998;
 border-color:#3b5998}.social-icon .twitter:hover{background-color:#55acee;
 border-color:#55acee}.social-icon .dribble:hover{background-color:#D34836;
 border-color:#D34836}.social-icon .flickr:hover{background-color:#ff0084;
@@ -220,8 +220,8 @@ padding:9px 10px}.btn-lg{font-size:15px;
 padding:10px 32px}.btn-sm{font-size:12px;
 padding:7px 6px}.btn-xs{font-size:10px;
 padding:5px 8px}.btn-rounded{border-radius:4px !important}.btn-pill{border-radius:50px !important}.btn-link{color:#002060
-}.btn-link:hover{color:#D14E63;
-text-decoration:none}.btn-link:focus{color:#D14E63;
+}.btn-link:hover{color:#0044CE;
+text-decoration:none}.btn-link:focus{color:#0044CE;
 text-decoration:none}.btn-common,.btn-common:active,.btn-common:focus{color:#002060
 ;
 border:2px solid #002060
@@ -234,13 +234,13 @@ border:2px solid #002060
 ;
 border:2px solid #002060
 ;
-color:#fff}.btn-filled:hover{background:#D14E63}.btn-default-filled,.btn-default-filled:active,.btn-default-filled:focus{color:#fff;
+color:#fff}.btn-filled:hover{background:#0044CE}.btn-default-filled,.btn-default-filled:active,.btn-default-filled:focus{color:#fff;
 background:#002060
 ;
 border:2px solid #002060
 }.btn-default-filled:hover{color:#fff;
-background:#D14E63;
-border:2px solid #D14E63}.btn-success,.btn-success:active,.btn-success:focus{color:#87c056;
+background:#0044CE;
+border:2px solid #0044CE}.btn-success,.btn-success:active,.btn-success:focus{color:#87c056;
 border:2px solid #87c056;
 background:transparent}.btn-success:hover{color:#fff;
 background:#87c056;
@@ -290,8 +290,8 @@ border:1px solid #002060
 ;
 background:#ddd;
 border:1px solid #ddd}.pagination .btn-default-filled:hover{color:#fff;
-background:#D14E63;
-border:1px solid #D14E63}.button-title{border-bottom:1px solid #ffffff;
+background:#0044CE;
+border:1px solid #0044CE}.button-title{border-bottom:1px solid #ffffff;
 color:#ffffff;
 opacity:0.2;
 text-align:left}.button-title span{display:inline-block;
