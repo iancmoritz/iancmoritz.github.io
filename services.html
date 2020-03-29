@@ -26,107 +26,45 @@ canonical: https://heliumjk.github.io
           <span>Service #1</span>
         </div>
         <div class="row">
-          <!-- Start Service Icon 1 -->
-          <div class="col-md-4 col-sm-6">
-            <div class="service-box">
-              <div class="service-icon">
-                <i class="fa fa-cogs"></i>
-              </div>
-              <div class="service-content">
-                <h4><a href="#">Easy to Customize</a></h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.
-                </p>
+          <!-- Start Image Service Box 1 -->
+          <div class="col-md-4">
+            <div class="image-service-box">
+              <img src="{{ BASE_PATH }}/assets/images/service/img1.jpg" alt="" />
+              <div class="service-text">
+                <h4><a href="#">Research, Technology, and Big Data</a></h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
+                  vero error excepturi.</p>
               </div>
             </div>
           </div>
-          <!-- End Service Icon 1 -->
+          <!-- End Image Service Box 1 -->
 
-          <!-- Start Service Icon 2 -->
-          <div class="col-md-4 col-sm-6">
-            <div class="service-box">
-              <div class="service-icon">
-                <i class="fa fa-cubes"></i>
-              </div>
-              <div class="service-content">
-                <h4><a href="#">100+ Components</a></h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.
-                </p>
+          <!-- Start Image Service Box 2 -->
+          <div class="col-md-4">
+            <div class="image-service-box">
+              <img src="{{ BASE_PATH }}/assets/images/service/consulting.jpg" alt="" />
+              <div class="service-text">
+                <h4><a href="#">Consulting</a></h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
+                  vero error excepturi.</p>
               </div>
             </div>
           </div>
-          <!-- End Service Icon 2 -->
+          <!-- End Image Service Box 2 -->
 
-          <!-- Start Service Icon 3 -->
-          <div class="col-md-4 col-sm-6">
-            <div class="service-box">
-              <div class="service-icon">
-                <i class="fa fa-tachometer"></i>
-              </div>
-              <div class="service-content">
-                <h4><a href="#">Super Fast</a></h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.
-                </p>
+          <!-- Start Image Service Box 3 -->
+          <div class="col-md-4">
+            <div class="image-service-box">
+              <img src="{{ BASE_PATH }}/assets/images/service/cornell.jpg" alt="" />
+              <div class="service-text">
+                <h4><a href="#">College Admissions</a></h4>
+                <p>Ian's mentees have received admissions offers from Columbia, Cornell, the University of Virginia, the
+                  University of Michigan, Williams & Mary, and other top-tier schools across
+                  the nation.</p>
               </div>
             </div>
           </div>
-          <!-- End Service Icon 3 -->
-
-          <!-- Start Service Icon 4 -->
-          <div class="col-md-4 col-sm-6">
-            <div class="service-box">
-              <div class="service-icon">
-                <i class="fa fa-check"></i>
-              </div>
-              <div class="service-content">
-                <h4><a href="#">Clean Design</a></h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.
-                </p>
-              </div>
-            </div>
-          </div>
-          <!-- End Service Icon 4 -->
-
-          <!-- Start Service Icon 5 -->
-          <div class="col-md-4 col-sm-6">
-            <div class="service-box">
-              <div class="service-icon">
-                <i class="fa fa-flash"></i>
-              </div>
-              <div class="service-content">
-                <h4><a href="#">Bootstrap 4 UI Kit</a></h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.
-                </p>
-              </div>
-            </div>
-          </div>
-          <!-- End Service Icon 5 -->
-
-          <!-- Start Service Icon 6 -->
-          <div class="col-md-4 col-sm-6">
-            <div class="service-box">
-              <div class="service-icon">
-                <i class="fa fa-hand-pointer-o"></i>
-              </div>
-              <div class="service-content">
-                <h4><a href="#">Advanced Features</a></h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.
-                </p>
-              </div>
-            </div>
-          </div>
-          <!-- End Service Icon 6 -->
+          <!-- End Image Service Box 3 -->
         </div>
 
         <div class="mb-60"></div>
@@ -228,46 +166,73 @@ canonical: https://heliumjk.github.io
           <span>Service Sections with Images</span>
         </div>
 
+        <div class="mb-60"></div>
+      </div>
+      <!-- CONTACT FORM -->
+      <div class="container">
         <div class="row">
-          <!-- Start Image Service Box 1 -->
-          <div class="col-md-4">
-            <div class="image-service-box">
-              <img src="{{ BASE_PATH }}/assets/images/service/img1.jpg" alt="" />
-              <div class="service-text">
-                <h4><a href="#">Research, Technology, and Big Data</a></h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.</p>
+          <div class="col-md-8">
+            <h3 class="title-head text-center">Interested? Get in touch!</h3>
+            <form class="contact-form" data-toggle="validator">
+              <div class="row">
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <i class="contact-icon fa fa-user"></i>
+                    <input type="text" class="form-control" id="name" placeholder="Full Name" required
+                      data-error="Please enter your name">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <i class="contact-icon fa fa-envelope-o"></i>
+                    <input type="email" class="form-control" id="email" placeholder="Email" required
+                      data-error="Please enter your email">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="form-group">
+                    <i class="contact-icon fa fa-pencil-square-o"></i>
+                    <input type="text" class="form-control" id="subject" placeholder="Subject" required
+                      data-error="Please enter your Subject">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-sm-12">
+                  <div class="form-group">
+                    <textarea id="message" rows="8" placeholder="Message" required
+                      data-error="Please enter your message"></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                  <button type="submit" id="form-submit" class="btn btn-common btn-form-submit">Send Message</button>
+                  <div id="msgSubmit" class="h3 text-center hidden"></div>
+                  <div class="clearfix"></div>
+                </div>
               </div>
-            </div>
+            </form>
           </div>
-          <!-- End Image Service Box 1 -->
 
-          <!-- Start Image Service Box 2 -->
           <div class="col-md-4">
-            <div class="image-service-box">
-              <img src="{{ BASE_PATH }}/assets/images/service/consulting.jpg" alt="" />
-              <div class="service-text">
-                <h4><a href="#">Consulting</a></h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae architecto officiis consequuntur
-                  vero error excepturi.</p>
+            <h4 class="contact-info-title">Contact Information</h4>
+            <div class="contact-info">
+              <address>
+                <i class="fa fa-map-marker icons cyan-color contact-info-icon"></i>
+                {{ site.author.home_address }}
+                <br>
+                {{ site.author.home_city }}
+              </address>
+              <div class="tel-info">
+                <a href="tel:{{ site.author.phone }}"><i
+                    class="fa fa-mobile icons cyan-color contact-info-icon"></i>{{ site.author.phone }}</a>
               </div>
+              <a href="mailto:{{ site.author.email }}"><i
+                  class="fa fa-envelope-o icons cyan-color contact-info-icon"></i>{{ site.author.email }}</a>
+              <a href="https://www.github.com/{{ site.author.github }}/"><i
+                  class="fa fa-tablet icons cyan-color contact-info-icon"></i>{{site.author.github}}</a>
+              {% include social-block.html %}
             </div>
           </div>
-          <!-- End Image Service Box 2 -->
-
-          <!-- Start Image Service Box 3 -->
-          <div class="col-md-4">
-            <div class="image-service-box">
-              <img src="{{ BASE_PATH }}/assets/images/service/cornell.jpg" alt="" />
-              <div class="service-text">
-                <h4><a href="#">College Admissions</a></h4>
-                <p>Ian's mentees have received admissions offers from Columbia, Cornell, the University of Virginia, the
-                  University of Michigan, Williams & Mary, and other top-tier schools across
-                  the nation.</p>
-              </div>
-            </div>
-          </div>
-          <!-- End Image Service Box 3 -->
         </div>
       </div>
     </div>
